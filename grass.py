@@ -7,7 +7,5 @@ def reinject_data(original_file, modified_file, offset_hex, output_file):
         original_data = bytearray(f.read())
 
  
-if __name__ == "__main__":
-    if len(sys.argv) != 5:
-        print("❗ الاستخدام:")
+مرحبا انا المطور 
     
