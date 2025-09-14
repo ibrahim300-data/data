@@ -1,1 +1,2840 @@
-
+{
+    "movies": [
+        {
+            "order": 1,
+            "id": 1311031,
+            "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+            "poster": "https://image.tmdb.org/t/p/original/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+            "video": "https://www.youtube.com/watch?v=juD6zgap4-I",
+            "cast": [
+                "Natsuki Hanae",
+                "Hiro Shimono",
+                "Takahiro Sakurai",
+                "Akira Ishida",
+                "Yoshitsugu Matsuoka",
+                "Toshihiko Seki",
+                "Reina Ueda",
+                "Nobuhiko Okamoto",
+                "Katsuyuki Konishi",
+                "Akari Kito",
+                "Kengo Kawanishi",
+                "Saori Hayami",
+                "Kana Hanazawa",
+                "Kenichi Suzumura",
+                "Tomokazu Sugita",
+                "Ryotaro Okiayu"
+            ],
+            "rating": 7.621,
+            "release_date": "2025-7-18",
+            "genres": [
+                "Animation",
+                "Action",
+                "Fantasy",
+                "Thriller"
+            ],
+            "original_language": "ja"
+        },
+        {
+            "order": 2,
+            "id": 755898,
+            "title": "War of the Worlds",
+            "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+            "poster": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+            "video": "https://www.youtube.com/watch?v=d9erkpdh5o0",
+            "cast": [
+                "Ice Cube",
+                "Eva Longoria",
+                "Clark Gregg",
+                "Iman Benson",
+                "Henry Hunter Hall",
+                "Devon Bostick",
+                "Andrea Savage",
+                "Nicole Pulliam",
+                "Michael O'Neill",
+                "Jim Meskimen"
+            ],
+            "rating": 4.33,
+            "release_date": "2025-7-29",
+            "genres": [
+                "Science Fiction",
+                "Thriller"
+            ],
+            "original_language": "en"
+        },
+        {
+            "order": 3,
+            "id": 1078605,
+            "title": "Weapons",
+            "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+            "poster": "https://image.tmdb.org/t/p/original/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/Q2OajDi2kcO6yErb1IAyVDTKMs.jpg",
+            "video": "https://www.youtube.com/watch?v=QKHySfXqN0I",
+            "cast": [
+                "Julia Garner",
+                "Josh Brolin",
+                "Alden Ehrenreich",
+                "Austin Abrams",
+                "Benedict Wong",
+                "Amy Madigan",
+                "Cary Christopher",
+                "Toby Huss",
+                "Whitmer Thomas",
+                "Callie Schuttera",
+                "June Diane Raphael",
+                "Scarlett Sher",
+                "Jason Turner",
+                "Anny Jules",
+                "Ali Burch",
+                "Michael Gene Conti"
+            ],
+            "rating": 7.4,
+            "release_date": "2025-8-4",
+            "genres": [
+                "Horror",
+                "Mystery"
+            ],
+            "original_language": "en"
+        },
+        {
+            "order": 4,
+            "id": 1038392,
+            "title": "The Conjuring: Last Rites",
+            "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+            "poster": "https://image.tmdb.org/t/p/original/29ES27icY5CzTcMhlz1H4SdQRod.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/fq8gLtrz1ByW3KQ2IM3RMZEIjsQ.jpg",
+            "video": "https://www.youtube.com/watch?v=p4aWdkM5xF8",
+            "cast": [
+                "Vera Farmiga",
+                "Patrick Wilson",
+                "Mia Tomlinson",
+                "Ben Hardy",
+                "Rebecca Calder",
+                "Tilly Walker",
+                "Elliot Cowan",
+                "Shannon Kook",
+                "Steve Coulter",
+                "Kíla Lord Cassidy",
+                "Beau Gadsdon",
+                "Molly Cartwright",
+                "Leigh Jones",
+                "John Brotherton",
+                "Peter Wight",
+                "Kate Fahy"
+            ],
+            "rating": 6.7,
+            "release_date": "2025-9-3",
+            "genres": [
+                "Horror"
+            ],
+            "original_language": "en"
+        },
+        {
+            "order": 5,
+            "id": 1007734,
+            "title": "Nobody 2",
+            "overview": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
+            "poster": "https://image.tmdb.org/t/p/original/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/mEW9XMgYDO6U0MJcIRqRuSwjzN5.jpg",
+            "video": "https://www.youtube.com/watch?v=UGOvEad8qd4",
+            "cast": [
+                "Bob Odenkirk",
+                "Connie Nielsen",
+                "Sharon Stone",
+                "John Ortiz",
+                "Colin Hanks",
+                "RZA",
+                "Christopher Lloyd",
+                "Gage Munroe",
+                "Paisley Cadorath",
+                "Colin Salmon",
+                "Jacob Blair",
+                "Daniel Bernhardt",
+                "Lucius Hoyos",
+                "David MacInnis",
+                "David Lawrence Brown",
+                "Denesha Lee-Labiuk"
+            ],
+            "rating": 7.272,
+            "release_date": "2025-8-13",
+            "genres": [
+                "Action",
+                "Thriller"
+            ],
+            "original_language": "en"
+        }
+    ],
+    "series": [
+        {
+            "order": 1,
+            "id": 119051,
+            "title": "Wednesday",
+            "overview": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates twisted mysteries while making new friends — and foes — at Nevermore Academy.",
+            "poster": "https://image.tmdb.org/t/p/original/36xXlhEpQqVVPuiZhfoQuaY4OlA.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+            "video": "https://www.youtube.com/watch?v=Qa5kFRxBkNw",
+            "cast": [
+                "Jenna Ortega",
+                "Steve Buscemi",
+                "Hunter Doohan",
+                "Emma Myers",
+                "Joy Sunday",
+                "Isaac Ordonez",
+                "Moosa Mostafa",
+                "Owen Painter",
+                "Georgie Farmer",
+                "Billie Piper",
+                "Luyanda Unati Lewis-Nyawo",
+                "Victor Dorobantu",
+                "Noah B. Taylor",
+                "Evie Templeton",
+                "Luis Guzmán",
+                "Catherine Zeta-Jones"
+            ],
+            "rating": 8.391,
+            "release_date": "2022-11-23",
+            "genres": [
+                "Sci-Fi & Fantasy",
+                "Mystery",
+                "Comedy"
+            ],
+            "original_language": "en",
+            "episodes": [
+                {
+                    "season": 1,
+                    "episode_number": 1,
+                    "title": "Wednesday's Child Is Full of Woe",
+                    "overview": "When a deliciously wicked prank gets Wednesday expelled, her parents ship her off to Nevermore Academy, the boarding school where they fell in love.",
+                    "air_date": "2022-11-23",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 2,
+                    "title": "Woe Is the Loneliest Number",
+                    "overview": "The sheriff questions Wednesday about the night's strange happenings. Later, Wednesday faces off against a fierce rival in the cutthroat Poe Cup race.",
+                    "air_date": "2022-11-23",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 3,
+                    "title": "Friend or Woe",
+                    "overview": "Wednesday stumbles on a secret society. During Outreach Day, Nevermore's outcasts mingle with Jericho's normies in Pilgrim World. Fudge, anyone?",
+                    "air_date": "2022-11-23",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 4,
+                    "title": "Woe What a Night",
+                    "overview": "Wednesday asks Xavier to the Rave'N dance, sparking Tyler's jealousy — but Thing's got something up his sleeve. Meanwhile, Eugene stakes out the cave.",
+                    "air_date": "2022-11-23",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 5,
+                    "title": "You Reap What You Woe",
+                    "overview": "During Parents Weekend, Wednesday digs into her family's past — and accidentally gets her dad arrested. Enid feels the pressure to \"wolf out.\"",
+                    "air_date": "2022-11-23",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 6,
+                    "title": "Quid Pro Woe",
+                    "overview": "Wednesday's friends throw her a surprise birthday party. They mean well... but she'd much rather mark the miserable occasion by solving the murders.",
+                    "air_date": "2022-11-23",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 7,
+                    "title": "If You Don't Woe Me by Now",
+                    "overview": "Kooky Uncle Fester pays a visit and shares his theory about the monster. Wednesday begrudgingly agrees to a date with Tyler at Crackstone's crypt.",
+                    "air_date": "2022-11-23",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 8,
+                    "title": "A Murder of Woes",
+                    "overview": "Wednesday lands in trouble with Principal Weems, but that's just the start of her problems. To fight an ancient evil, she'll need all her friends’ help.",
+                    "air_date": "2022-11-23",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 1,
+                    "title": "Here We Woe Again",
+                    "overview": "After a productive summer break, Wednesday returns to Nevermore as a grudging campus celebrity — and the target of a dangerous stalker.",
+                    "air_date": "2025-8-6",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 2,
+                    "title": "The Devil You Woe",
+                    "overview": "Chaos reigns on campus as Nevermore celebrates its annual Prank Day. Wednesday confronts an old enemy and gains an unwanted ally.",
+                    "air_date": "2025-8-6",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 3,
+                    "title": "Call of the Woe",
+                    "overview": "Stripped of both her ability and Goody's book, Wednesday is forced to do some old-fashioned detective work on a school camping trip.",
+                    "air_date": "2025-8-6",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 4,
+                    "title": "If These Woes Could Talk",
+                    "overview": "It's an Addams family investigation as Fester and Thing commit themselves to Wednesday's case. Trying to conceal one secret, Bianca stumbles on another.",
+                    "air_date": "2025-8-6",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 5,
+                    "title": "Hyde and Woe Seek",
+                    "overview": "With Tyler on the loose, Wednesday readies for a risky Día de los Muertos showdown. Slurp's growing hunger poses problems for Pugsley.",
+                    "air_date": "2025-9-3",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 6,
+                    "title": "Woe Thyself",
+                    "overview": "An encounter with a spirit from Nevermore's past gives Wednesday and Enid a new perspective on one another — and puts one of their classmates in danger.",
+                    "air_date": "2025-9-3",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 7,
+                    "title": "Woe Me the Money",
+                    "overview": "As the school gala looms, Wednesday digs up dirt on Dort, Enid tries not to wolf out and Morticia engages in a battle of wills with Grandmama.",
+                    "air_date": "2025-9-3",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 8,
+                    "title": "This Means Woe",
+                    "overview": "When buried family secrets are unearthed, Wednesday must race against time to prevent a dark prophecy from being realized.",
+                    "air_date": "2025-9-3",
+                    "special": false
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "id": 157239,
+            "title": "Alien: Earth",
+            "overview": "When the mysterious deep space research vessel USCSS Maginot crash-lands on Earth, Wendy and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet's greatest threat.",
+            "poster": "https://image.tmdb.org/t/p/original/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/25g7mthXoJFcNZhAKz0evk17Bsx.jpg",
+            "video": "https://www.youtube.com/watch?v=FqIi3N9dusk",
+            "cast": [
+                "Sydney Chandler",
+                "Alex Lawther",
+                "Essie Davis",
+                "Samuel Blenkin",
+                "Babou Ceesay",
+                "Adarsh Gourav",
+                "Erana James",
+                "Lily Newmark",
+                "Jonathan Ajayi",
+                "David Rysdahl",
+                "Diêm Camille",
+                "Moe Bar-El",
+                "Adrian Edmondson",
+                "Timothy Olyphant"
+            ],
+            "rating": 7.658,
+            "release_date": "2025-8-12",
+            "genres": [
+                "Sci-Fi & Fantasy",
+                "Drama"
+            ],
+            "original_language": "en",
+            "episodes": [
+                {
+                    "season": 1,
+                    "episode_number": 1,
+                    "title": "Neverland",
+                    "overview": "When a spaceship crash-lands on Earth, a sister searches for her brother amidst an unexpected alien threat.",
+                    "air_date": "2025-8-12",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 2,
+                    "title": "Mr. October",
+                    "overview": "Tensions rise between rival corporations, a reunion takes place, and a secret is revealed.",
+                    "air_date": "2025-8-12",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 3,
+                    "title": "Metamorphosis",
+                    "overview": "The team returns home with unexpected cargo. An unsettling experiment occurs, and a new talent is discovered.",
+                    "air_date": "2025-8-19",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 4,
+                    "title": "Observation",
+                    "overview": "An unexpected connection is formed while a covert plot puts everyone in danger.",
+                    "air_date": "2025-8-26",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 5,
+                    "title": "In Space, No One...",
+                    "overview": "An outer-space vessel in peril leads to a dangerous reckoning.",
+                    "air_date": "2025-9-2",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 6,
+                    "title": "The Fly",
+                    "overview": "Tensions rise as powerful enemies confront each other, a dangerous plan unfolds, and curiosity leads to deadly consequences.",
+                    "air_date": "2025-9-9",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 7,
+                    "title": "Emergence",
+                    "overview": "An escape plan is hatched leading to a breaking of factions, betrayals, and a shocking confrontation.",
+                    "air_date": "2025-9-16",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 8,
+                    "title": "The Real Monsters",
+                    "overview": "A new power dynamic emerges.",
+                    "air_date": "2025-9-23",
+                    "special": false
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "id": 194766,
+            "title": "The Summer I Turned Pretty",
+            "overview": "Every summer, Belly and her family head to the Fishers’ beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It’s a summer of first love, first heartbreak and growing up — it's the summer she turns pretty.",
+            "poster": "https://image.tmdb.org/t/p/original/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/jCcSS9iDpKgll8Kpp7qVhSn0l1f.jpg",
+            "video": "https://www.youtube.com/watch?v=faL_S-7z4_I",
+            "cast": [
+                "Lola Tung",
+                "Christopher Briney",
+                "Gavin Casalegno",
+                "Sean Kaufman",
+                "Rain Spencer",
+                "Jackie Chung",
+                "Isabella Briggs",
+                "Kristen Connolly"
+            ],
+            "rating": 8.164,
+            "release_date": "2022-6-16",
+            "genres": [
+                "Drama"
+            ],
+            "original_language": "en",
+            "episodes": [
+                {
+                    "season": 1,
+                    "episode_number": 1,
+                    "title": "Summer House",
+                    "overview": "It's the first real day of summer: the day Belly, her brother Steven, and her mother Laurel head to Cousins beach to stay with Susannah Fisher, who's like Belly's second mother, and her boys, Conrad and Jeremiah. Belly's been going to Cousins since she before was born, but something about this summer feels different for Belly. And if the first night is any indication, she's right.",
+                    "air_date": "2022-6-16",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 2,
+                    "title": "Summer Dress",
+                    "overview": "It's Belly's first day as a debutante, and a day of shopping and tea parties make her wonder if she made the right choice when she checked yes on Susannah's invitation. But when Cam shows up, things turn around for Belly. Her summer of firsts is just getting started. Meanwhile, Steven's having his own summer of romance, and Laurel is intrigued by a fellow author.",
+                    "air_date": "2022-6-16",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 3,
+                    "title": "Summer Nights",
+                    "overview": "It's Belly's 16th birthday and her best friend, Taylor, arrives in Cousins to help celebrate. Belly's birthday is always her favorite day of the year, but this year she's blindsided by a secret Taylor has been keeping from her. The debs ask Belly who she's bringing to the debutante ball. Laurel and Susannah's secret finally comes to light.",
+                    "air_date": "2022-6-16",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 4,
+                    "title": "Summer Heat",
+                    "overview": "It's the 4th of July, and the fathers have come to Cousins for Susannah's annual party at the beach house. Tensions flare between Conrad and his father. Belly and the Fisher brothers make margaritas, and chaos ensues. Later, Belly has a romantic moment that's interrupted.",
+                    "air_date": "2022-6-16",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 5,
+                    "title": "Summer Catch",
+                    "overview": "Believing that Conrad might act on his feelings for her, Belly makes a decision. But when Belly and Conrad finally get a chance to talk, things don't go as she expected, and she wonders if she's had her eye on the wrong Fisher brother. Steven is assigned to work the poker room at the country club, and Laurel and Susannah have a night out.",
+                    "air_date": "2022-6-16",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 6,
+                    "title": "Summer Tides",
+                    "overview": "Taylor comes back to town to play in the Cousins Beach charity volleyball tournament, and to help Belly, who's caught between Conrad and Jeremiah. When a yacht party with the debs ends in disaster, Belly's decision between the brothers becomes clear. Steven finds himself in over his head with Shayla's wealthy friends, and Cleveland helps Conrad through an emotional moment.",
+                    "air_date": "2022-6-16",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 7,
+                    "title": "Summer Love",
+                    "overview": "The debutante ball is here, but Belly's big night is almost ruined when Jeremiah learns the secret his mother has been keeping all summer. When Belly's left alone on the dance floor, someone else steps in to save the day. With Susannah and Laurel's secret out in the open, the season ends with a promise from Susannah and the confession from Conrad that Belly has been waiting for all summer.",
+                    "air_date": "2022-6-16",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 1,
+                    "title": "Love Lost",
+                    "overview": "Belly's not the same girl she was at the end of last summer. It's the last day of school, and, after a tough year, Belly tries to let loose with Steven and Taylor, but some things are too big to leave behind.",
+                    "air_date": "2023-7-13",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 2,
+                    "title": "Love Scene",
+                    "overview": "Belly joins Jeremiah on an important search, but when tension over their past threatens to get in the way, they have to find a way to heal their rift in order to help Conrad.",
+                    "air_date": "2023-7-13",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 3,
+                    "title": "Love Sick",
+                    "overview": "The summer house is for sale, but Belly, Jeremiah, and Conrad won't let it go so easily. While Conrad works on a secret plan, Belly and Jeremiah try a more direct route. But being back in Cousins with the Fisher brothers means Belly can't escape painful memories of the past year.",
+                    "air_date": "2023-7-13",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 4,
+                    "title": "Love Game",
+                    "overview": "All's fair in love and boardwalk games. A day of competition with old and new friends stokes big feelings for Belly, Conrad and Jeremiah, and leads to an even bigger surprise that will affect them all.",
+                    "air_date": "2023-7-20",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 5,
+                    "title": "Love Fool",
+                    "overview": "You don't have to go home, but you can't stay here. Belly and the gang break into a familiar spot for the night after being forced out of the summer house by Aunt Julia. But the change of scenery will force everyone to reckon with their feelings.",
+                    "air_date": "2023-7-27",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 6,
+                    "title": "Love Fest",
+                    "overview": "As their time in Cousins winds down, Belly finds herself wondering: What Would Susannah Do? Throw a massive party, obviously. But will the festivities bring them the closure they need, or just stir up new problems for everyone?",
+                    "air_date": "2023-8-3",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 7,
+                    "title": "Love Affair",
+                    "overview": "Some hangovers are worse than others. Belly wakes up to a reminder of the mistakes she made last night. But is it too late to fix everything?",
+                    "air_date": "2023-8-10",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 8,
+                    "title": "Love Triangle",
+                    "overview": "After a painful revelation, Belly, Jeremiah, and Conrad are trapped in close quarters for the night. Emotions run high as Belly must reckon with past and present to decide her future.",
+                    "air_date": "2023-8-17",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 1,
+                    "title": "Last Season",
+                    "overview": "School's almost out, and Belly's excited for another idyllic summer in Cousins with her boyfriend, Jeremiah. But her plans go off the rails after she learns a shocking truth.",
+                    "air_date": "2025-7-16",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 2,
+                    "title": "Last Christmas",
+                    "overview": "In the wake of an earth-shattering betrayal, Belly tries to pick up the pieces. Caught in the crossfire, Taylor picks a fight with Steven that ends in disaster.",
+                    "air_date": "2025-7-16",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 3,
+                    "title": "Last Supper",
+                    "overview": "Belly and Jeremiah plan to keep their big news secret from their families until everyone is reunited in Cousins for Susannah's memorial garden ceremony. Everyone, except for Conrad.",
+                    "air_date": "2025-7-23",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 4,
+                    "title": "Last Stand",
+                    "overview": "Alone in Philly, Belly turns 21. But her special day turns sour when family disagreements about her future take center stage.",
+                    "air_date": "2025-7-30",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 5,
+                    "title": "Last Dance",
+                    "overview": "With Jeremiah stuck at the office, a reluctant Conrad gets roped into wedding planning with Belly. En route to New York for a new career opportunity, Steven finds himself with an unlikely travel companion.",
+                    "air_date": "2025-8-6",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 6,
+                    "title": "Last Name",
+                    "overview": "Now that Adam's onboard, the wedding is growing bigger by the day and Belly's overwhelmed. But after a surprise at her bridal shower, things finally start looking up.",
+                    "air_date": "2025-8-13",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 7,
+                    "title": "Last Hurrah",
+                    "overview": "What happens in Cousins, stays in Cousins. Belly and Jeremiah hit the town with their friends for a last wild hurrah. But as the alcohol flows, the secrets come out.",
+                    "air_date": "2025-8-20",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 8,
+                    "title": "Last Kiss",
+                    "overview": "It's Belly and Jeremiah's wedding day, but Conrad's late-night beach confession could throw a wrench in their happily-ever-after. With emotions running high and time running out, Belly has a decision to make.",
+                    "air_date": "2025-8-27",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 9,
+                    "title": "Last Call",
+                    "overview": "In the aftermath of the wedding, Belly makes a choice that leads her on a wild adventure and forever alters her future. Meanwhile, Jeremiah struggles to make peace with Conrad and accept his new circumstances.",
+                    "air_date": "2025-9-3",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 10,
+                    "title": "Last Year",
+                    "overview": "A year is a lifetime as Belly builds her new life in Paris. Back at home, Jeremiah tries to find his footing without her. And in California, Conrad still can't shake the thoughts of Belly.",
+                    "air_date": "2025-9-10",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 11,
+                    "title": "Episode 11",
+                    "overview": "",
+                    "air_date": "2025-9-17",
+                    "special": false
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "id": 1405,
+            "title": "Dexter",
+            "overview": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+            "poster": "https://image.tmdb.org/t/p/original/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+            "video": "https://www.youtube.com/watch?v=YQeUmSD1c3g",
+            "cast": [
+                "Michael C. Hall",
+                "Jennifer Carpenter",
+                "Geoff Pierson",
+                "David Zayas",
+                "James Remar",
+                "Aimee Garcia",
+                "Desmond Harrington",
+                "C.S. Lee"
+            ],
+            "rating": 8.214,
+            "release_date": "2006-10-1",
+            "genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "original_language": "en",
+            "episodes": [
+                {
+                    "season": 0,
+                    "episode_number": 1,
+                    "title": "Early Cuts: Alex Timmons (Chapter 1)",
+                    "overview": "Dexter hunts Alex Timmons, a corrupt Gulf War veteran who used the cover of war to kill the innocent.",
+                    "air_date": "2009-10-25",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 2,
+                    "title": "Early Cuts: Alex Timmons (Chapter 2)",
+                    "overview": "Dexter sets his crosshairs on a marine sniper.",
+                    "air_date": "2009-11-1",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 3,
+                    "title": "Early Cuts: Alex Timmons (Chapter 3)",
+                    "overview": "Dexter stalks his prey.",
+                    "air_date": "2009-11-8",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 4,
+                    "title": "Early Cuts: Alex Timmons (Chapter 4)",
+                    "overview": "Dexter takes a trophy.",
+                    "air_date": "2009-11-15",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 5,
+                    "title": "Early Cuts: Gene Marshall (Chapter 1)",
+                    "overview": "A young Dexter encounters arsonist Gene Marshall and is forced to rethink his methods.",
+                    "air_date": "2009-11-15",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 6,
+                    "title": "Early Cuts: Gene Marshall (Chapter 2)",
+                    "overview": "Dexter learns that Marshall's crimes basically went unpunished as he was deemed unfit for trial after he used his money to exploit the system.",
+                    "air_date": "2009-11-22",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 7,
+                    "title": "Early Cuts: Gene Marshall (Chapter 3)",
+                    "overview": "Dexter subdues and confronts Marshall about the people who were casualties of his arsonist activities.",
+                    "air_date": "2009-11-29",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 8,
+                    "title": "Early Cuts: Gene Marshall (Chapter 4)",
+                    "overview": "Dexter is interrupted from his ritual with Gene Marshall when his sister, Deb, insists he celebrate her sweet-sixteen birthday with her.",
+                    "air_date": "2009-12-6",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 9,
+                    "title": "Early Cuts: Cindy Landon (Chapter 1)",
+                    "overview": "Dexter stalks a new victim and finds one in Cindy Landon, a magician's assistant with a special skill that makes her husbands disappear.",
+                    "air_date": "2009-12-13",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 10,
+                    "title": "Early Cuts: Cindy Landon (Chapter 2)",
+                    "overview": "Cindy reveals the secrets behind her trade and speculates that her role in a magic show is more important than the magician's.",
+                    "air_date": "2009-12-20",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 11,
+                    "title": "Early Cuts: Cindy Landon (Chapter 3)",
+                    "overview": "Dexter introduces himself to Cindy at a magic show and even though she is married she agrees to meet him later in an abandoned parking lot.",
+                    "air_date": "2009-12-27",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 12,
+                    "title": "Early Cuts: Cindy Landon (Chapter 4)",
+                    "overview": "With Cindy subdued, Dexter sets the stage for his own magic show with her as the center of attention.",
+                    "air_date": "2010-1-4",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 13,
+                    "title": "A Sitdown with Michael C. Hall and John Lithgow",
+                    "overview": "Aired after the finale of season 4. The shocking season 4 finale of Dexter was kept as a secret until the last minute that the cast had to scramble in the dark.",
+                    "air_date": "2009-12-13",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 14,
+                    "title": "Early Cuts: Dark Echo (Chapter 1)",
+                    "overview": "Dark Echo tells a story in which Dexter is challenged by a copy-cat killer who does not follow any sort of code. Dark Echo opens immediately after the death of Dexter's father, Harry, with Dexter in his early twenties and his sister Debra still in high school. Dexter is enrolled in medical school where he's studying anatomy to improve his \"craft.\" During a routine kill, Dexter realizes that another student has been spying on him and knows that he is a serial killer. He confronts the student after he begins to commit murders in Dexter's style and the two clash over the ethics of their situations.",
+                    "air_date": "2010-10-25",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 15,
+                    "title": "Early Cuts: Dark Echo (Chapter 2)",
+                    "overview": "",
+                    "air_date": "2010-10-26",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 16,
+                    "title": "Early Cuts: Dark Echo (Chapter 3)",
+                    "overview": "",
+                    "air_date": "2010-10-27",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 17,
+                    "title": "Early Cuts: Dark Echo (Chapter 4)",
+                    "overview": "",
+                    "air_date": "2010-10-28",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 18,
+                    "title": "Early Cuts: Dark Echo (Chapter 5)",
+                    "overview": "",
+                    "air_date": "2010-10-29",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 19,
+                    "title": "Early Cuts: Dark Echo (Chapter 6)",
+                    "overview": "",
+                    "air_date": "2010-10-30",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 20,
+                    "title": "Making Dark Echo",
+                    "overview": "",
+                    "air_date": "",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 21,
+                    "title": "The Dark Defender: Little Chino",
+                    "overview": "Watch episode one of the new online series The Dark Defender. The Dark Defender rids Miami of a notorious gang lord. Stalker of the night, his blade of vengeance turns wrong into right.",
+                    "air_date": "2007-10-30",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 22,
+                    "title": "The Dark Defender: Roger Hicks",
+                    "overview": "Watch episode two of the new online series The Dark Defender. The Dark Defender kills a murderous car dealer. Stalker of the night, his blade of vengeance turns wrong into right.",
+                    "air_date": "2007-11-5",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 23,
+                    "title": "The Dark Defender: Ken Olson",
+                    "overview": "Watch episode three of the online series The Dark Defender. The Dark Defender goes after a copycat killer. Stalker of the night, his blade of vengeance turns wrong into right.",
+                    "air_date": "2007-11-19",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 24,
+                    "title": "Early Cuts: All in the Family (Chapter 1)",
+                    "overview": "Dexter hunts a new killer on New Year's Eve.",
+                    "air_date": "2012-9-4",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 25,
+                    "title": "Early Cuts: All in the Family (Chapter 2)",
+                    "overview": "",
+                    "air_date": "2012-9-4",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 26,
+                    "title": "Early Cuts: All in the Family (Chapter 3)",
+                    "overview": "Dexter receives some new clues in his hunt for the prostitute killer.",
+                    "air_date": "2012-9-4",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 27,
+                    "title": "Early Cuts: All in the Family (Chapter 4)",
+                    "overview": "In Chapter 4 Dexter flashes back to a childhood incident where Deborah sensed his darkness.",
+                    "air_date": "2012-9-11",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 28,
+                    "title": "Early Cuts: All in the Family (Chapter 5)",
+                    "overview": "Dexter's digs up some family history in his hunt for the prostitute killer. Starring Michael C Hall, written by Scott Reynolds and illustrated by David Mack.",
+                    "air_date": "2012-9-18",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 29,
+                    "title": "Early Cuts: All in the Family (Chapter 6)",
+                    "overview": "Dexter faces off with Coleman Lindquist and his father in the final chapter of Early Cuts.",
+                    "air_date": "2012-9-25",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 30,
+                    "title": "Season 4 Extra - Behind the Scenes",
+                    "overview": "",
+                    "air_date": "",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 31,
+                    "title": "Season 4 Extra - Designing Dexter's New House",
+                    "overview": "",
+                    "air_date": "",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 32,
+                    "title": "Early Cuts - Behind the Scenes",
+                    "overview": "",
+                    "air_date": "",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 33,
+                    "title": "Dissecting Dexter 01 - Dexter's Origins",
+                    "overview": "",
+                    "air_date": "",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 34,
+                    "title": "Dissecting Dexter 02 - Dexter's Awakening",
+                    "overview": "",
+                    "air_date": "",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 35,
+                    "title": "Dissecting Dexter 03 - Dexter's Coming of Age",
+                    "overview": "",
+                    "air_date": "",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 36,
+                    "title": "Julia Stiles on Dexter (Season 5)",
+                    "overview": "",
+                    "air_date": "",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 37,
+                    "title": "From Cop to Killer",
+                    "overview": "The evolution of Debrah",
+                    "air_date": "",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 38,
+                    "title": "Season 8: Behind the Scenes",
+                    "overview": "",
+                    "air_date": "2019-7-15",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 39,
+                    "title": "Season 8: Episode 1 - With the Creators",
+                    "overview": "",
+                    "air_date": "",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 40,
+                    "title": "S08E02 Wrap-Up (Directed by Michael C. Hall)",
+                    "overview": "",
+                    "air_date": "",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 41,
+                    "title": "S08E03 - Dissecting a Scene",
+                    "overview": "",
+                    "air_date": "2012-10-15",
+                    "special": true
+                },
+                {
+                    "season": 0,
+                    "episode_number": 42,
+                    "title": "S08E04 - With the Creators",
+                    "overview": "",
+                    "air_date": "",
+                    "special": true
+                },
+                {
+                    "season": 1,
+                    "episode_number": 1,
+                    "title": "Dexter",
+                    "overview": "Dexter Morgan, a Miami Metro Police Department blood spatter analyst, is living a double life.  After his day job with the police department, Dexter moonlights as a serial killer, hunting and killing criminals who slip through the justice system.  Dexter's sister, Debra, a vice squad officer, pulls Dexter into her world when another serial killer is killing prostitutes and leaving their bloodless bodies dismembered in various locations around Miami.  Meanwhile, Dexter hunts a man who made snuff videos and killed a mother of two.",
+                    "air_date": "2006-10-1",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 2,
+                    "title": "Crocodile",
+                    "overview": "As Dexter stalks his next victim, a drunk driver who is about to be acquitted for vehicular homicide that resulted in the death of a teenage boy, the Ice Truck Killer strikes again and later gets in touch with Dexter.  Meanwhile, when a cop is found murdered, Dexter helps Doakes and Debra investigate a crime boss who they believe is responsible.",
+                    "air_date": "2006-10-8",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 3,
+                    "title": "Popping Cherry",
+                    "overview": "\"The Ice Truck Killer\" strikes again and new homicide officer Debra is assigned the case, but she gets reprimanded for violating the chain of command; flashbacks offer insight into Dexter's homicidal tendencies and take him back to his first time \"taking out the garbage\"; Doakes gets on the bad side of a drug kingpin.",
+                    "air_date": "2006-10-15",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 4,
+                    "title": "Let's Give the Boy a Hand",
+                    "overview": "The Ice Truck Killer leaves severed body parts from his victims at locations that are linked to memories from Dexter's troubled childhood, which begins to get into Dexter's head.",
+                    "air_date": "2006-10-22",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 5,
+                    "title": "Love American Style",
+                    "overview": "The homicide division is handed an unbelievable lead when the Ice Truck Killer's latest victim is found alive but mutilated; Dexter is on the trail of a person who traffics in humans.",
+                    "air_date": "2006-10-29",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 6,
+                    "title": "Return to Sender",
+                    "overview": "The Ice Truck Killer leaves a clue at the scene where Dexter has dispatched his latest victim, and Dexter is worried that someone might have witnessed his killing. Rita is trying to deal with her ex-husband.",
+                    "air_date": "2006-11-5",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 7,
+                    "title": "Circle of Friends",
+                    "overview": "The squad identifies the Ice Truck Killer; Rita's ex-husband, an abusive addict, is paroled.",
+                    "air_date": "2006-11-12",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 8,
+                    "title": "Shrink Wrap",
+                    "overview": "Dexter appears to be connected to a psychiatrist suspected of murdering a suicidal patient.",
+                    "air_date": "2006-11-19",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 9,
+                    "title": "Father Knows Best",
+                    "overview": "While on a weekend getaway with Rita, his sister and her new beau, Dexter learns that his biological father, thought to be dead for 30 years, has just passed away, and that he's willed his son everything he owned.",
+                    "air_date": "2006-11-26",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 10,
+                    "title": "Seeing Red",
+                    "overview": "The Ice Truck Killer prepares a crime scene for Dexter: a hotel room all covered in his previous victim's blood. But Dexter does not appreciate this gift, because his childhood memories hunt him.",
+                    "air_date": "2006-12-3",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 11,
+                    "title": "Truth Be Told",
+                    "overview": "The Ice Truck Killer sets a trap for Dexter by kidnapping someone close to him; Dexter's increasingly odd behavior piques Doakes's interest.",
+                    "air_date": "2006-12-10",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 12,
+                    "title": "Born Free",
+                    "overview": "Dexter figures out who the Ice Truck Killer is, along with a dark secret from his troubled past. Meanwhile, La Guerta is replaced with a new boss and Angel figures out a way how to track the killer while he's still in hospital.",
+                    "air_date": "2006-12-17",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 1,
+                    "title": "It's Alive!",
+                    "overview": "Things are really beginning to heat up for Dexter: Doakes' suspicions about him are growing, his victims are escaping, and his body dump site has been found. Meanwhile Paul is troubling Rita over the missing shoe and Debra is going through trauma over the Ice Truck killer incident.",
+                    "air_date": "2007-9-30",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 2,
+                    "title": "Waiting to Exhale",
+                    "overview": "Dexter is finding it hard to have closure on killing his brother. There is a new FBI agent to head the \"Bay Harbor Butcher\" case. Debra is finding it tough to put the past behind her.",
+                    "air_date": "2007-10-7",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 3,
+                    "title": "An Inconvenient Lie",
+                    "overview": "Dexter's inability to deceive has him pursuing a slick liar as his next victim, while Rita believes he's concealing a drug problem and forces him into a 12-step program where he meets Lila, a seductive new woman.",
+                    "air_date": "2007-10-14",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 4,
+                    "title": "See-Through",
+                    "overview": "Rita's estranged mother visits and senses something is wrong with Dexter. Masuka thinks he's developed a lead in the Bay Harbor Butcher case, which has Dexter concerned. Angel's interrogation of a witness crosses a line.",
+                    "air_date": "2007-10-21",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 5,
+                    "title": "The Dark Defender",
+                    "overview": "Dexter discovers that the man who murdered his mother in front of him as a boy is still alive and confronts the killer as part of his recovery from addiction - but he also discovers that old impulses die hard.",
+                    "air_date": "2007-10-28",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 6,
+                    "title": "Dex, Lies, and Videotape",
+                    "overview": "A copy-cat killer follows the lead of the \"Bay Harbor Butcher.\" Dexter must destroy an incriminating surveillance video.",
+                    "air_date": "2007-11-4",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 7,
+                    "title": "That Night, a Forest Grew",
+                    "overview": "Dexter manages to get Doakes off his back. He devises a plan to get the police in another direction. Lila and Dex's relationship intensifies, and he has some interaction with Rita and the kids.",
+                    "air_date": "2007-11-11",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 8,
+                    "title": "Morning Comes",
+                    "overview": "Dexter is attacked by the man who murdered his mother. Meanwhile, Lila wants to get closer to Dex, and Debra and Lundy close in on the Bay Harbor Butcher.",
+                    "air_date": "2007-11-18",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 9,
+                    "title": "Resistance Is Futile",
+                    "overview": "Dexter realizes it won't be easy to end things completely with Lila. Dexter tries to stay ahead of the investigations as the manhunt for the Bay Harbor Butcher intensifies. An enemy of Dexter figures out his secret.",
+                    "air_date": "2007-11-25",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 10,
+                    "title": "There's Something About Harry",
+                    "overview": "Doakes follows Dexter to his next crime scene and shocks him with a revelation about Harry. The Bay Harbor Butcher task force feels they are zeroing in on their man.",
+                    "air_date": "2007-12-2",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 11,
+                    "title": "Left Turn Ahead",
+                    "overview": "Dexter must make a massive decision that will have an effect on all those he holds close. Lila meanwhile is back with a secret to blackmail Dexter.",
+                    "air_date": "2007-12-9",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 12,
+                    "title": "The British Invasion",
+                    "overview": "Special Agent Lundy and the FBI finally settle the case of the Bay Harbor Butcher, but the heat's not entirely off Dexter as the flames literally close in.",
+                    "air_date": "2007-12-16",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 1,
+                    "title": "Our Father",
+                    "overview": "Dexter has put his life back together but things may fall apart soon. His new victim is also being targeted by Assistant District Attorney Miguel Prado. Deb has to decide how to handle Internal Affairs, as they want her to turn on her new partner.",
+                    "air_date": "2008-9-28",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 2,
+                    "title": "Finding Freebo",
+                    "overview": "Debra and the homicide unit, Dexter and ADA Miguel Prado are all searching for the same serial killer, who is responsible for the death of Prado's younger brother. Meanwhile at home, Dexter is faced with a decision to make concerning Rita and her kid",
+                    "air_date": "2008-10-5",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 3,
+                    "title": "The Lion Sleeps Tonight",
+                    "overview": "Dexter and a pedophile have a run-in; Dexter is unable to restore Freebo's good name after he is accused of a murder he didn't commit. Also, Dexter's friendship with Miguel weighs on his mind.",
+                    "air_date": "2008-10-12",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 4,
+                    "title": "All in the Family",
+                    "overview": "Dexter scrambles to convince Rita that his marriage proposal is sincere and romantic. Miguel's vengeful brother Ramon searches desperately for their sibling's murderer, who was secretly killed by Dexter.",
+                    "air_date": "2008-10-19",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 5,
+                    "title": "Turning Biminese",
+                    "overview": "Dexter hears the story of a husband who has gotten away with murdering two wives for financial gain and tracks the man to Bimini, but Rita has a medical emergency while Dexter has disappeared.",
+                    "air_date": "2008-10-26",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 6,
+                    "title": "Sí Se Puede",
+                    "overview": "Dexter tests Miguel to see if he is on his dark-side job. Rita questions her career path after being fired from her job. Debra believes she in some way caused another homicide while working on her current case.",
+                    "air_date": "2008-11-2",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 7,
+                    "title": "Easy as Pie",
+                    "overview": "Dexter begins working with Miguel but they quickly have differences in selecting a potential new victim; Rita discovers that Miguel's wife suspects him of an affair; an old friend of Dexter's asks for help in ending her life.",
+                    "air_date": "2008-11-9",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 8,
+                    "title": "The Damage a Man Can Do",
+                    "overview": "Dexter undertakes to teach Miguel the Code, but doesn't realize he's whetting his partner's thirst for blood. Meanwhile, Debra is one step closer to finding the Skinner but a secret revealed about Anton sends him packing.",
+                    "air_date": "2008-11-16",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 9,
+                    "title": "About Last Night",
+                    "overview": "Miguel and Dexter's friendship is impacted when Rita confronts Miguel about his alleged infidelity. Believing Skinner has abducted Anton, Debra pulls out all the stops to find him",
+                    "air_date": "2008-11-23",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 10,
+                    "title": "Go Your Own Way",
+                    "overview": "A series of chess-like moves ensues when Dexter and Miguel vie for the upper hand, with Miguel winning Rita's affection by presenting her with a lavish wedding gift. Elsewhere, Debra wonders if her relationship with Anton is worth the trouble.",
+                    "air_date": "2008-11-30",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 11,
+                    "title": "I Had a Dream",
+                    "overview": "While preparing for his big wedding day, Dexter has to figure out a way to remove Miguel from his life for good. In the meantime, Rita has troubles of her own, when Syl reveals that Miguel has been seeing one of his old flames. Debra finds a new clue that brings her even closer to catching the Skinner.",
+                    "air_date": "2008-12-7",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 12,
+                    "title": "Do You Take Dexter Morgan?",
+                    "overview": "It is the day before Dexter's wedding and Dexter must deal with two people targeting him, while preparing for his special occasion. Meanwhile, Angel tells Deb he's put her in for a promotion, but after he finds out some information her shield may be gone before she gets it.",
+                    "air_date": "2008-12-14",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 1,
+                    "title": "Living the Dream",
+                    "overview": "Dexter sleeplessly struggles to balance his new family life with his dark, murderous drive for a fresh victim, and his busier-than-ever forensic career pursuing a new target, \"The Trinity Killer.\"",
+                    "air_date": "2009-9-27",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 2,
+                    "title": "Remains to Be Seen",
+                    "overview": "Suffering from amnesia following his car crash, Dexter begins searching for Benny Gomez' lost body, with a helping hand from Harry. Meanwhile, Debra struggles with the return of her former lover while Quinn tries to juggle his personal and work life. Meanwhile, Trinity begins stalking his next chosen victim.",
+                    "air_date": "2009-10-4",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 3,
+                    "title": "Blinded by the Light",
+                    "overview": "Dexter is hampered by his neighborhood's increased vigilance due to vandalism, his temporary inability to drive himself anywhere, and his admiration for the killing technique of the artful Trinity Killer.",
+                    "air_date": "2009-10-11",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 4,
+                    "title": "Dex Takes a Holiday",
+                    "overview": "Dexter gets some much-needed R&R time with Rita and the kids out of town, leading to his stalking of a new victim until he unexpectedly begins to empathize with his target, a cop that murdered her family.",
+                    "air_date": "2009-10-18",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 5,
+                    "title": "Dirty Harry",
+                    "overview": "Dexter is inspired to investigate the Trinity Killer on his own, while Debra blames herself for an event that was out of her control, and Rita realizes how little she knows her husband after discovering one of his secrets.",
+                    "air_date": "2009-10-25",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 6,
+                    "title": "If I Had a Hammer",
+                    "overview": "Dexter doubles his efforts to stay ahead of the official Trinity investigation, and receives relationship advice about the friction between himself and Rita from a most unexpected source.",
+                    "air_date": "2009-11-1",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 7,
+                    "title": "Slack Tide",
+                    "overview": "Dexter finally strikes a balance between family, career and his secret life, but is thwarted in his pursuit of his next victim, while Debra expresses a renewed and unwelcome interest in their father's checkered past.",
+                    "air_date": "2009-11-8",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 8,
+                    "title": "Road Kill",
+                    "overview": "Dexter wonders if his father's Code is truly the right path, and hopes to get answers by accompanying Trinity on an out-of-town road trip, while Debra discovers that her single-minded pursuit of Trinity has blinded her to the truth.",
+                    "air_date": "2009-11-15",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 9,
+                    "title": "Hungry Man",
+                    "overview": "For most people, Thanksgiving is a time for traditions and family. But for Dexter, it’s an opportunity to get closer to his most dangerous adversary yet. As Dexter gains insight into Arthur’s psychology by studying those closest to him, he finds himself drawn into a bizarre and twisted world.",
+                    "air_date": "2009-11-22",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 10,
+                    "title": "Lost Boys",
+                    "overview": "Dexter finally believes he understands the beast known as Trinity. But when a ten-year old boy goes missing, Dexter is forced to question everything he’s learned up to this point.",
+                    "air_date": "2009-11-29",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 11,
+                    "title": "Hello, Dexter Morgan",
+                    "overview": "Dexter must buy time to protect himself when Debra's investigation brings the department one step away from identifying Arthur as the Trinity Killer; Rita confides in Dexter, but is disappointed in the result.",
+                    "air_date": "2009-12-6",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 12,
+                    "title": "The Getaway",
+                    "overview": "Dexter and Arthur find themselves on a collision course, as Debra unearths a shocking long-hidden truth, Rita admits her marriage to Dexter is troubled, and Batista and LaGuerta face the consequences of an ethics breach.",
+                    "air_date": "2009-12-13",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 1,
+                    "title": "My Bad",
+                    "overview": "Dexter must make a choice; Quinn stirs up trouble for Dexter but supports Deb.",
+                    "air_date": "2010-9-26",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 2,
+                    "title": "Hello, Bandit",
+                    "overview": "Dexter tries to focus on the children and fight his dark urges; Debra ends up on Quinn's doorstep.",
+                    "air_date": "2010-10-3",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 3,
+                    "title": "Practically Perfect",
+                    "overview": "Dexter hires a nanny; Debra is annoyed with her new partner; Quinn continues to investigate Rita's murder.",
+                    "air_date": "2010-10-10",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 4,
+                    "title": "Beauty and the Beast",
+                    "overview": "Dexter must save a life; Deb has a confrontation with a key suspect; Quinn follows up on the similarities between Dexter and Kyle Butler.",
+                    "air_date": "2010-10-17",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 5,
+                    "title": "First Blood",
+                    "overview": "Dexter is saddled with an unwanted conspirator; Dexter worries about how Rita's death will affect Harrison; Deb works alone; Quinn enlists an old friend's help.",
+                    "air_date": "2010-10-24",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 6,
+                    "title": "Everything Is Illumenated",
+                    "overview": "Dexter is drawn into a precarious situation; Batista discovers an interesting lead; Quinn gets information about Dexter from a questionable source.",
+                    "air_date": "2010-10-31",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 7,
+                    "title": "Circle Us",
+                    "overview": "Dexter is called to investigate a horrifying crime scene; the Santa Muerte case leads to a violent standoff between Debra and the Santa Muerte killers.",
+                    "air_date": "2010-11-7",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 8,
+                    "title": "Take It!",
+                    "overview": "Dexter and Lumen vet and stalk a violent killer; Debra gets into some unexpected trouble from the fallout of the Santa Muerte case",
+                    "air_date": "2010-11-14",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 9,
+                    "title": "Teenage Wasteland",
+                    "overview": "Dexter and Lumen hunt for their next victim; Debra uncovers new evidence in the Barrel Girl case",
+                    "air_date": "2010-11-21",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 10,
+                    "title": "In the Beginning",
+                    "overview": "Homicide uncovers some key evidence linked to one of Dexter's and Lumen's prior victims; Debra identifies two more suspects in the case.",
+                    "air_date": "2010-11-28",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 11,
+                    "title": "Hop a Freighter",
+                    "overview": "Dexter must do damage control; Debra's speculation begins to take shape; Quinn becomes involved in a homicide.",
+                    "air_date": "2010-12-5",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 12,
+                    "title": "The Big One",
+                    "overview": "Dexter realizes that he and Lumen are being lured into a trap and risks everything to escape; Quinn needs help that only Dexter can provide.",
+                    "air_date": "2010-12-12",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 1,
+                    "title": "Those Kinds of Things",
+                    "overview": "Dexter shows up at his 20th high-school reunion with the intention of confronting the former prom king. Elsewhere, an investigation into a heinous murder with religious overtones leads Dexter to ponder spiritual matters and wonder about his son's legacy. And an unexpected situation results in Debra becoming a hero.",
+                    "air_date": "2011-10-2",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 2,
+                    "title": "Once Upon a Time...",
+                    "overview": "Brother Sam, a minister with a criminal history, is brought in by the homicide department to help solve a macabre murder, but Dexter sees him for what he really is, and it's definitely not a man of God. Elsewhere, Debra's sudden hero status elicits a pair of surprising proposals.",
+                    "air_date": "2011-10-9",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 3,
+                    "title": "Smokey and the Bandit",
+                    "overview": "Dexter is confronted with a sobering glimpse of his own potential future when a serial killer from his past makes a startling reappearance; Debra is uncomfortable in her new job; Travis struggles to keep his mentor happy, as he and Gellar prepare a new twisted tableau, ensuring Debra's next task will be a daunting one.",
+                    "air_date": "2011-10-16",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 4,
+                    "title": "A Horse of a Different Color",
+                    "overview": "Much to his own surprise, an emergency with Harrison and a new tableau from Gellar and Travis has Dexter leaning on Brother Sam and an unexpected winged messenger for support as he questions the idea of faith; with proof of a religiously motivated killer, Homicide hunts for a zealot, with Debra giving her first official press conference.",
+                    "air_date": "2011-10-23",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 5,
+                    "title": "The Angel of Death",
+                    "overview": "With the help of his newfound friend Brother Sam, Dexter wonders if there is light within him to counter the darkness, while the search for the Doomsday Killers takes him in a new direction; Batista and Quinn pay a visit to the university where Professor Gellar taught; due to departmental regulations following the shooting, Debra is forced to begin therapy.",
+                    "air_date": "2011-10-30",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 6,
+                    "title": "Just Let Go",
+                    "overview": "Dexter is caught up in a very personal case that awakens the needs of his Dark Passenger; Debra feels overwhelmed by her new Lieutenant duties, made all the more complicated when she finds out Quinn slept with a witness in the Doomsday case.",
+                    "air_date": "2011-11-6",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 7,
+                    "title": "Nebraska",
+                    "overview": "Dexter finds himself teamed up with a fellow Dark Passenger when he takes a road trip to Nebraska to tie up some loose ends from the past; Debra deals with the complications of her promotion as she leads the Doomsday investigation.",
+                    "air_date": "2011-11-13",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 8,
+                    "title": "Sin of Omission",
+                    "overview": "Dexter uses lessons he learned from Brother Sam to follow up on some new leads in the Doomsday investigation; Debra butts heads with Captain LaGuerta over the case of a dead call girl.",
+                    "air_date": "2011-11-20",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 9,
+                    "title": "Get Gellar",
+                    "overview": "Dexter receives help from an unexpected source while hunting the Doomsday Killers and staying one step ahead of Homicide; Debra discovers something new about herself in therapy.",
+                    "air_date": "2011-11-27",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 10,
+                    "title": "Ricochet Rabbit",
+                    "overview": "Dexter tries to figure out the Doomsday Killers' next victim before it's too late; Debra has a strong reaction to a crime scene, which leads her to the realization that she leans too heavily on her brother.",
+                    "air_date": "2011-12-4",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 11,
+                    "title": "Talk to the Hand",
+                    "overview": "Dexter finds that in order to catch the Doomsday Killers, he must create a macabre tableau of his own; Debra's battle with LaGuerta over the case of the dead call girl boils over, and her therapist makes an unnerving suggestion.",
+                    "air_date": "2011-12-11",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 12,
+                    "title": "This Is the Way the World Ends",
+                    "overview": "Dexter and Homicide race against a lunar eclipse to catch the Doomsday Killers before their final gruesome act; Debra struggles with a new emotional reality.",
+                    "air_date": "2011-12-18",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 1,
+                    "title": "Are You...?",
+                    "overview": "After witnessing her brother kill, Debra attempts to reconcile with Dexter while struggling to cover up their involvement with the murder.",
+                    "air_date": "2012-9-30",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 2,
+                    "title": "Sunshine and Frosty Swirl",
+                    "overview": "Miami Metro sets out to unearth new evidence on a claim from a local convict that he has new information regarding a 15-year-old crime spree; Debra tries to cure Dexter of his killer tendencies.",
+                    "air_date": "2012-10-7",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 3,
+                    "title": "Buck the System",
+                    "overview": "Dexter tries to bring Debra on board with his new target. While the Ukrainian mob seeks revenge for the killing of one of their own, Quinn grows close to a dancer at their strip club.",
+                    "air_date": "2012-10-14",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 4,
+                    "title": "Run",
+                    "overview": "After capturing a deadly killer, things go awry for Miami Metro, sending Debra into a tailspin. In an effort to help his sister, Dexter enters into a dangerous game of cat and mouse, while the Ukrainian mob continues to seek revenge.",
+                    "air_date": "2012-10-21",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 5,
+                    "title": "Swim Deep",
+                    "overview": "While trying to uncover why someone was killed on his boat, Dexter must out-maneuver a vengeful Isaak. New leads are brought to light on the Wayne Randall case by Hannah McKay, Randall's alluring former accomplice who Dexter discovers has a secret.",
+                    "air_date": "2012-10-28",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 6,
+                    "title": "Do the Wrong Thing",
+                    "overview": "Debra gets to know a local crime writer who's dug up some incriminating dirt on Hannah McKay (Dexter's newest obsession). Quinn gets an offer he tries to refuse and Batista is drawn to a new business opportunity. LaGuerta keeps digging into the Bay Harbor Butcher case.",
+                    "air_date": "2012-11-4",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 7,
+                    "title": "Chemistry",
+                    "overview": "Quinn falls back into his old ways as he makes some questionable choices to protect Nadia. Things heat up as Dexter and Hannah grow closer, but when Sal Price discovers the two are involved, he wants the exclusive story.",
+                    "air_date": "2012-11-11",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 8,
+                    "title": "Argentina",
+                    "overview": "Fresh out of jail, Isaak renews his pursuit of Dexter while Quinn continues his power struggle with the Koshkas. Dexter tries to keep Debra in the dark about his relationship with Hannah, but a surprise visit from Astor, Cody and Harrison throws a wrench into his plans.",
+                    "air_date": "2012-11-18",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 9,
+                    "title": "Helter Skelter",
+                    "overview": "As Dexter scrambles to track down Isaak, a power struggle erupts among the Koshka Brotherhood, which could prove to Dexter's advantage. Meanwhile, Miami Dade tries to smoke out the Phantom Arsonist.",
+                    "air_date": "2012-11-25",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 10,
+                    "title": "The Dark... Whatever",
+                    "overview": "Dexter is unnerved when Hannah's father pays him a surprise visit; the Phantom Arsonist's crimes become more vicious; and Quinn defends Nadia's honor and finds himself in a volatile situation. Meanwhile; LaGuerta asks a former superior for help on the Bay Harbor Butcher case.",
+                    "air_date": "2012-12-2",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 11,
+                    "title": "Do You See What I See?",
+                    "overview": "As Christmas approaches, Dexter tries to balance his life with Hannah and his relationship with Debra. Dexter learns the man responsible for ordering his mother's death has been released from jail.",
+                    "air_date": "2012-12-9",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 12,
+                    "title": "Surprise, Motherfucker!",
+                    "overview": "Dexter must protect himself when LaGuerta closes in on his secret.",
+                    "air_date": "2012-12-16",
+                    "special": false
+                },
+                {
+                    "season": 8,
+                    "episode_number": 1,
+                    "title": "A Beautiful Day",
+                    "overview": "It’s been 6 months since LaGuerta’s murder – and Dexter is still managing life as a dad, brother, and serial killer. Debra now works as a PI for a private firm and Batista has replaced her as Lieutenant. Meanwhile, Miami Metro investigates the murder of a man who has had pieces of his brain removed.",
+                    "air_date": "2013-6-30",
+                    "special": false
+                },
+                {
+                    "season": 8,
+                    "episode_number": 2,
+                    "title": "Every Silver Lining...",
+                    "overview": "Miami Metro continues their hunt for the Brain Surgeon, while Dr. Vogel enlists Dexter to do her bidding based on her own personal experience with her previous patients. Debra continues to track down her PI case and has to take matters into her own hands.",
+                    "air_date": "2013-7-7",
+                    "special": false
+                },
+                {
+                    "season": 8,
+                    "episode_number": 3,
+                    "title": "What's Eating Dexter Morgan?",
+                    "overview": "Dexter continues his manhunt for the Brain Surgeon. Dr. Vogel tries to prove to Dexter that he’s perfect as a psychopath. Debra’s PTSD kicks in and she makes a desperate plea to confess to LaGuerta’s murder.",
+                    "air_date": "2013-7-14",
+                    "special": false
+                },
+                {
+                    "season": 8,
+                    "episode_number": 4,
+                    "title": "Scar Tissue",
+                    "overview": "Dexter tracks down another potential serial killer from Dr. Vogel’s list. Quinn celebrates his passing of the Sergeant’s exam by defending Debra’s honor in a fight. Dr. Vogel begins treating Debra for her PTSD.",
+                    "air_date": "2013-7-21",
+                    "special": false
+                },
+                {
+                    "season": 8,
+                    "episode_number": 5,
+                    "title": "This Little Piggy",
+                    "overview": "Dr. Vogel gets abducted by the Brain Surgeon, while Dexter and Debra try and rescue her. Masuka finds out he has a daughter.",
+                    "air_date": "2013-7-28",
+                    "special": false
+                },
+                {
+                    "season": 8,
+                    "episode_number": 6,
+                    "title": "A Little Reflection",
+                    "overview": "Dexter monitors a young psychopath to see if he is suited for his table. Dexter and Debra finally get back to normal, but are surprised by his ex, Hannah.",
+                    "air_date": "2013-8-4",
+                    "special": false
+                },
+                {
+                    "season": 8,
+                    "episode_number": 7,
+                    "title": "Dress Code",
+                    "overview": "Dexter hunts down Hannah to figure out why she’s back in Miami. Dexter also takes on a protégé and starts teaching him the Code.",
+                    "air_date": "2013-8-11",
+                    "special": false
+                },
+                {
+                    "season": 8,
+                    "episode_number": 8,
+                    "title": "Are We There Yet?",
+                    "overview": "Dexter tracks down his protégé in the belief that he murdered his neighbor. Meanwhile, Dexter tries to help Hannah escape the country.",
+                    "air_date": "2013-8-18",
+                    "special": false
+                },
+                {
+                    "season": 8,
+                    "episode_number": 9,
+                    "title": "Make Your Own Kind of Music",
+                    "overview": "Dexter investigates a murder that hits close to home. Meanwhile, Dr. Vogel gets the surprise of her life when someone from her past returns.",
+                    "air_date": "2013-8-25",
+                    "special": false
+                },
+                {
+                    "season": 8,
+                    "episode_number": 10,
+                    "title": "Goodbye Miami",
+                    "overview": "Dexter enlists Dr. Vogel's help to lure the Brain Surgeon to a location in order to get him on the table. Later, an important person in Dexter's life is murdered before his eyes.",
+                    "air_date": "2013-9-8",
+                    "special": false
+                },
+                {
+                    "season": 8,
+                    "episode_number": 11,
+                    "title": "Monkey in a Box",
+                    "overview": "Dexter is torn between fleeing the country with Hannah and Harrison, and taking Saxon out once and for all.",
+                    "air_date": "2013-9-15",
+                    "special": false
+                },
+                {
+                    "season": 8,
+                    "episode_number": 12,
+                    "title": "Remember the Monsters?",
+                    "overview": "Dexter is faced with impossible odds as a brewing hurricane makes its way towards Miami.",
+                    "air_date": "2013-9-22",
+                    "special": false
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "id": 79744,
+            "title": "The Rookie",
+            "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+            "poster": "https://image.tmdb.org/t/p/original/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+            "video": "https://www.youtube.com/watch?v=8BPlx6eK1vc",
+            "cast": [
+                "Nathan Fillion",
+                "Melissa O'Neil",
+                "Alyssa Diaz",
+                "Eric Winter",
+                "Mekia Cox",
+                "Richard T. Jones",
+                "Shawn Ashmore",
+                "Jenna Dewan",
+                "Lisseth Chavez"
+            ],
+            "rating": 8.5,
+            "release_date": "2018-10-16",
+            "genres": [
+                "Crime",
+                "Drama",
+                "Comedy"
+            ],
+            "original_language": "en",
+            "episodes": [
+                {
+                    "season": 1,
+                    "episode_number": 1,
+                    "title": "Pilot",
+                    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being a police officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis. Throw in a workplace romance, a hostage situation, and some tough love from their new training officers, and the latest Los Angeles police rookie class has an uphill battle ahead of them.",
+                    "air_date": "2018-10-16",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 2,
+                    "title": "Crash Course",
+                    "overview": "Talia forces Nolan to confront his personal moral instincts in order to be a good cop after he encounters a kidnapping victim. Lucy is temporarily placed with a new training officer who tests her patience. Jackson must confront his failures head-on if he wants to be an officer.",
+                    "air_date": "2018-10-23",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 3,
+                    "title": "The Good, the Bad and the Ugly",
+                    "overview": "After Nolan and Talia lose control of a crime scene, they begin to debate whether people are fundamentally good or bad and what that means for a police officer. Lucy is concerned Tim is enabling his wife’s destructive behavior and not taking care of himself.",
+                    "air_date": "2018-10-30",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 4,
+                    "title": "The Switch",
+                    "overview": "The rookies are temporarily paired with new training officers, and Nolan is paired with Lopez. When Nolan and Lopez track down an escaped criminal, they discover a little kindness goes a long way. Jackson is forced to face his fears when he is partnered with Officer Bradford. Chen and Nolan must face a hard truth.",
+                    "air_date": "2018-11-13",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 5,
+                    "title": "The Roundup",
+                    "overview": "Nolan, the rookies and their training officers get involved in a competition that pits them against each other. Chen notices Bradford is obsessed with winning at all costs.",
+                    "air_date": "2018-11-20",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 6,
+                    "title": "The Hawke",
+                    "overview": "Nolan and the team must help capture a cop and his former mentor from the academy after he becomes a fugitive following an assault. Bradford needs Chen to learn to predict the moves of criminals in order to capture them.",
+                    "air_date": "2018-11-27",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 7,
+                    "title": "The Ride Along",
+                    "overview": "Grey informs Nolan and Bishop that they are going to have a movie director as a ride-along during their patrol after a fun afternoon granting the wish of a Make-a-Wish kid as an honorary police officer. Bradford is tested once again after he learns that his wife has been arrested for drug possession.",
+                    "air_date": "2018-12-4",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 8,
+                    "title": "Time of Death",
+                    "overview": "Nolan and Bishop respond to a silent alarm call at a local convenience store where two men are attempting to rob the place. Bishop helps coordinate a drug bust that hits a little too close to home for Bradford.",
+                    "air_date": "2018-12-11",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 9,
+                    "title": "Standoff",
+                    "overview": "Officer Bradford’s wife, Isabel, is found shot but alive and he vows to track down the man responsible. Meanwhile, Officer Nolan must protect his home and the truth after a home invasion attack.",
+                    "air_date": "2019-1-8",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 10,
+                    "title": "Flesh and Blood",
+                    "overview": "On Captain Andersen’s orders, Officer Nolan and Sergeant Grey are paired up for the day on patrol. Additionally, Nolan’s son and Grey’s daughter visit their dads on the job and see them in action. Meanwhile, Officer Chen is paired up with Captain Andersen, and Officer Bradford tells Chen to protect her at all costs.",
+                    "air_date": "2019-1-15",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 11,
+                    "title": "Redwood",
+                    "overview": "An unscheduled visit by the vice president of the United States puts the station on high alert. The secret service tasks Officer Nolan and Officer Bishop with checking out a possible threat to the vice president while the rest of the team try to keep the streets clear and safe for his visit.",
+                    "air_date": "2019-1-22",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 12,
+                    "title": "Heartbreak",
+                    "overview": "The most dangerous day of the year – Valentine’s Day – has the team on high alert, and Officer Nolan invites everyone over for a party now that he is single.",
+                    "air_date": "2019-2-12",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 13,
+                    "title": "Caught Stealing",
+                    "overview": "The rookies become the prime suspects after it is discovered a large sum of money used in a drug bust has gone missing.",
+                    "air_date": "2019-2-19",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 14,
+                    "title": "Plain Clothes Day",
+                    "overview": "The rookies are really put to the test when their training officers accompany them out of uniform for Plain Clothes Day, which forces them to make all the decisions while on patrol. Meanwhile, Officer Nolan tries to prove he has been progressing faster than the other rookies to justify his desire of becoming a detective within five years.",
+                    "air_date": "2019-2-26",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 15,
+                    "title": "Manhunt",
+                    "overview": "When a prison bus crashes, all units must respond as some inmates face severe injuries while others seek an opportunity to flee. In the wake of the accident, Officer Nolan tries to impress an FBI hostage negotiator while tracking down an escaped convict.",
+                    "air_date": "2019-3-5",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 16,
+                    "title": "Greenlight",
+                    "overview": "Officer Nolan gets a lesson in respect after his arrest of a gang member leads to a free-for-all on his life. Meanwhile, Officer Chen and Officer Bradford pull over Mario Lopez, who thinks he can talk his way out of a traffic violation.",
+                    "air_date": "2019-3-19",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 17,
+                    "title": "The Shake Up",
+                    "overview": "A massive earthquake rocks the city and throws everyone’s patrols and its citizens into chaos. Meanwhile, agent Russo recommends Officer Nolan for a protective detail of Brad Hayes, a man whose dealings have put a target on his head.",
+                    "air_date": "2019-3-26",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 18,
+                    "title": "Homefront",
+                    "overview": "When one of their colleagues is arrested by Internal Affairs for lying on the witness stand, it leads to the release of three felons whose cases he worked on and the team being asked to check in on them now that they are free. Meanwhile, Officer Nolan finds out he is being sued by a man who claims he used excessive force which led to an injury.",
+                    "air_date": "2019-4-2",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 19,
+                    "title": "The Checklist",
+                    "overview": "Sergeant Gray informs the rookies that they must track down a specific set of crimes in a 48-hour period in order to qualify for their final exam. Meanwhile, Officer Nolan and Officer Bishop answer a silent alarm call at will.i.am’s house.",
+                    "air_date": "2019-4-9",
+                    "special": false
+                },
+                {
+                    "season": 1,
+                    "episode_number": 20,
+                    "title": "Free Fall",
+                    "overview": "As the rookies prepare for a big exam to see who moves on to the next stage of training, Officer Nolan and Officer Bishop are called to the scene of a murder and learn that the victim may be tied to a potential terrorist attack on the city of Los Angeles.",
+                    "air_date": "2019-4-16",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 1,
+                    "title": "Impact",
+                    "overview": "Danger is ever-present as the officers of the Mid-Wilshire precinct grapple with the aftermath of a plotted attack on the city of Los Angeles, leaving Officer Bradford fighting for his life.",
+                    "air_date": "2019-9-29",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 2,
+                    "title": "The Night General",
+                    "overview": "Nolan teams up with new night detective Nick Armstrong for a murder investigation case that results in an unexpected reunion with a former love interest. Officer Bradford reluctantly accepts help from Officer Chen as he prepares for his sergeant exam, and Officer West pursues an unconventional move after finding himself in need of a new home.",
+                    "air_date": "2019-10-6",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 3,
+                    "title": "The Bet",
+                    "overview": "Officer Nolan navigates building tension in his relationship with Jessica and a developing rapport with Grace while working a high-stakes criminal case involving an undercover homeland security agent. Meanwhile, Officer Chen meddles with Officer Bradford’s love life, and Officer Lopez learns some surprising news about Wesley.",
+                    "air_date": "2019-10-13",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 4,
+                    "title": "Warriors and Guardians",
+                    "overview": "Officer Nolan gets off to a rocky start after being introduced to his new training officer, Nyla Harper, who has an unconventional approach to police work after her stint as an undercover detective. Meanwhile, Officer Bradford struggles to think of an appropriate birthday gift for Rachel, and Officer Lopez finds herself navigating a case that triggers a personal memory.",
+                    "air_date": "2019-10-20",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 5,
+                    "title": "Tough Love",
+                    "overview": "As part of their second phase of training, the rookies are asked to develop their first confidential informants. Officer Nolan soon discovers that no two informants are the same and struggles with his newest task. Meanwhile, Officer Chen’s mother complicates her home life when she comes to stay with her.",
+                    "air_date": "2019-10-27",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 6,
+                    "title": "Fallout",
+                    "overview": "An emergency alert of an impending missile attack sends Los Angeles into chaos and uncertainty, while the officers each try to keep the peace and deal with their own disasters.",
+                    "air_date": "2019-11-3",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 7,
+                    "title": "Safety",
+                    "overview": "John and Jessica’s relationship gets a lot more complicated after she delivers some surprising news. Meanwhile, Officer Bradford and Office West are assigned a community policing project helping out the Watts Rams as volunteer coaches at their fall clinic, along with Rams players Eric Weddle and Robert Woods.",
+                    "air_date": "2019-11-10",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 8,
+                    "title": "Clean Cut",
+                    "overview": "Officer Nolan kicks off his birthday by babysitting a crime scene at a law office. Meanwhile, Officer Bradford and Officer West are set to receive special awards, and Sgt. Grey rides patrol with Officer Harper after she requests an early annual evaluation.",
+                    "air_date": "2019-11-17",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 9,
+                    "title": "Breaking Point",
+                    "overview": "Officer Nolan’s trust is tested when he tries to help the previous owner of his home reconnect with his family. Meanwhile, Officer Harper has finally earned an overnight visit with her daughter that is put into jeopardy when her past undercover life resurfaces again.",
+                    "air_date": "2019-12-1",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 10,
+                    "title": "The Dark Side",
+                    "overview": "Officer Nolan and team are charged with escorting a notorious female serial killer to the graves of her previously unrecovered victims. However, when they arrive, they unearth even more than they expected. Meanwhile, Officer Chen meets a seemingly perfect man who sparks her interest, and Officer Lopez worries about Wesley as his PTSD continues to increase.",
+                    "air_date": "2019-12-8",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 11,
+                    "title": "Day of Death",
+                    "overview": "Officer Nolan and the entire team are in a desperate search to rescue Officer Chen after her abduction and must attempt to get Rosalind to help them in their search. Meanwhile, after Officer Lopez discovers Wesley unconscious from a dangerous cocktail of alcohol and pills, she is forced to keep him close by.",
+                    "air_date": "2020-2-23",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 12,
+                    "title": "Now and Then",
+                    "overview": "Nolan takes his son’s fiancé, Abigail, on a ride-along after she shows interest in becoming a police officer. Meanwhile, Jackson’s relationship is becoming complicated at work.",
+                    "air_date": "2020-3-1",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 13,
+                    "title": "Follow-Up Day",
+                    "overview": "Nolan is given some life-changing news and invites Grace over for a homecooked meal in his newly remodeled kitchen. Meanwhile, each unit is tasked with following up on dormant cases in the hopes they can uncover new leads.",
+                    "air_date": "2020-3-8",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 14,
+                    "title": "Casualties",
+                    "overview": "Officers Nolan and Harper investigate a murder which may have national security implications, while Officer Bradford must confront his past when he crosses paths with a homeless veteran.",
+                    "air_date": "2020-3-15",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 15,
+                    "title": "Hand-Off",
+                    "overview": "Officer Nolan is having a particularly bad day after learning his identity has been stolen and could jeopardize his position as an officer. Meanwhile, Sgt. Grey must confront his past and testify at the parole hearing of the man who shot Grey and murdered his partner.",
+                    "air_date": "2020-3-22",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 16,
+                    "title": "The Overnight",
+                    "overview": "Officers Chen and Bradford respond to a call at the Los Angeles auditions of “American Idol,” and Officer Chen ends up facing Ryan Seacrest and the judges. Meanwhile, Chen befriends a reporter whose motives are not clear.",
+                    "air_date": "2020-4-5",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 17,
+                    "title": "Control",
+                    "overview": "Officer Nolan’s relationship with his first confidential informant is tested when he discovers her back on the street dealing drugs. Meanwhile, Lucy’s fear of dating following her abduction and her intrusion into Jackson’s relationship is beginning to threaten their friendship.",
+                    "air_date": "2020-4-12",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 18,
+                    "title": "Under the Gun",
+                    "overview": "Officers Nolan and Harper are tasked with escorting four juvenile offenders to a Scared Straight program at a correctional facility that quickly becomes a riotous situation. Meanwhile, Nolan is uncertain about his relationship with Grace after she fails to introduce him to her ex-husband.",
+                    "air_date": "2020-4-26",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 19,
+                    "title": "The Q Word (1)",
+                    "overview": "Their rookie year is coming to an end and officers Nolan, Chen and West are about to be squeezed harder than ever before as their training officers evaluate whether they are truly ready for the job. Meanwhile, after one of their rookie classmates is involved in a shooting, the team uncovers some unsettling evidence .",
+                    "air_date": "2020-5-3",
+                    "special": false
+                },
+                {
+                    "season": 2,
+                    "episode_number": 20,
+                    "title": "The Hunt (2)",
+                    "overview": "Nolan's discovery goes much deeper than he expected and could put his life and career in jeopardy.",
+                    "air_date": "2020-5-10",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 1,
+                    "title": "Consequences",
+                    "overview": "Nearing the end of his training, Nolan now faces his biggest challenge as a police officer yet when he must come to terms with the choices he has made in pursuit of the truth.",
+                    "air_date": "2021-1-3",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 2,
+                    "title": "In Justice",
+                    "overview": "Officer John Nolan and Officer Nyla Harper are assigned to a community policing center to help rebuild their station’s reputation in the community. Nolan is determined to make a positive impact but Nyla has her doubts.",
+                    "air_date": "2021-1-10",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 3,
+                    "title": "La Fiera",
+                    "overview": "Officer John Nolan's mom makes an unannounced visit that complicates his life, and Sergeant Grey considers retiring.",
+                    "air_date": "2021-1-17",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 4,
+                    "title": "Sabotage",
+                    "overview": "Officer Jackson West’s relationship with his new training officer, Stanton, has escalated and he begins to work with Sergeant Grey to find a solution.",
+                    "air_date": "2021-1-24",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 5,
+                    "title": "Lockdown",
+                    "overview": "Officer Nolan is taken hostage by a man with nothing to lose while the station goes on lockdown and races to identify the suspect before time runs out. Meanwhile, Officer Jackson and his training officer, Officer Doug Stanton, reach a tipping point in their relationship that could end Jackson’s career.",
+                    "air_date": "2021-2-14",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 6,
+                    "title": "Revelations",
+                    "overview": "Officer Nolan’s decision to return to school in order to become a training officer is proving to be much harder than he expected. Meanwhile, Officer Chen considers going into undercover work after getting a taste of the job when Harper’s former colleague needs help.",
+                    "air_date": "2021-2-21",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 7,
+                    "title": "True Crime",
+                    "overview": "The team gets the true crime docuseries treatment when they analyze a recent case featuring a former child actor whose adult life has garnered him a cult following.",
+                    "air_date": "2021-2-28",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 8,
+                    "title": "Bad Blood",
+                    "overview": "Officer Nolan, Officer Harper and Detective Lopez are assigned to the kidnapping of the son of a criminal court judge who has a long list of enemies who could possibly be involved.",
+                    "air_date": "2021-3-28",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 9,
+                    "title": "Amber",
+                    "overview": "An Amber Alert sends the team on a race against time to find a newborn infant who was stolen from a local hospital. Meanwhile, Officers Jackson and Chen work their last shift as rookies as Officer Nolan continues on for 30 more days.",
+                    "air_date": "2021-4-4",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 10,
+                    "title": "Man of Honor",
+                    "overview": "Harper and Nolan respond to a bank robbery in progress and realize the motives of the thief run much deeper than just needing money. Jackson and Chen’s first day riding without training officers isn’t what they thought it would be.",
+                    "air_date": "2021-4-11",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 11,
+                    "title": "New Blood",
+                    "overview": "When professor Fiona Ryan’s car window is smashed following a series of mysterious notes, Nolan volunteers to guard her house overnight. Lucy notices that Tim is being much nicer to his new boot than he was with her and she does not like it.",
+                    "air_date": "2021-4-18",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 12,
+                    "title": "Brave Heart",
+                    "overview": "After rushing his son, Henry, to the hospital following his collapse, Nolan is reunited with his ex-wife, Sarah, and they must come together to help their son. Meanwhile, Detective Lopez discovers “La Fiera” is in the same hospital and wants to find out exactly why.",
+                    "air_date": "2021-5-2",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 13,
+                    "title": "Triple Duty",
+                    "overview": "Officers Nolan and Bradford hope they can de-escalate a drug war before any innocent lives are lost. Meanwhile, Officer Harper hopes she can get Officer Chen ready to go undercover.",
+                    "air_date": "2021-5-9",
+                    "special": false
+                },
+                {
+                    "season": 3,
+                    "episode_number": 14,
+                    "title": "Threshold",
+                    "overview": "Officer Nolan mildly injures himself while chasing down a shoplifter and the local DA wants to charge the suspect with assault despite Nolan's wishes. Meanwhile, Lucy goes undercover, Lopez' wedding venue is seized by the FBI and Nolan meets his new neighbor.",
+                    "air_date": "2021-5-16",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 1,
+                    "title": "Life and Death",
+                    "overview": "Officer Nolan and the entire team race against the clock to locate Lopez after she is kidnapped on her wedding day, not only to save her life but her unborn child’s.",
+                    "air_date": "2021-9-26",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 2,
+                    "title": "Five Minutes",
+                    "overview": "Officer Nolan and Officer Chen’s run-in with an infamous thief tips them off to a potentially big heist surrounding the Getty’s big gala event. Meanwhile, Nolan works up the courage to ask Bailey out on a date.",
+                    "air_date": "2021-10-3",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 3,
+                    "title": "In the Line of Fire",
+                    "overview": "Officer Nolan and officer Chen report to a structure fire and suspect that there is more to the situation than meets the eye. Meanwhile, after witnessing a sniper shooting, the team searches for the shooter and discovers that the perpetrator has a connection to one of their own.",
+                    "air_date": "2021-10-10",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 4,
+                    "title": "Red Hot",
+                    "overview": "Officer Nolan and Officer Chen search for a missing person who may have international ties that puts everyone’s lives in danger. Meanwhile, Harper continues the search for a serial arsonist after responding to a report of an injured cyclist, and Wesley must overcome an impossible task.",
+                    "air_date": "2021-10-17",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 5,
+                    "title": "A.C.H.",
+                    "overview": "When a new designer drug hits LA streets, it turns users into “zombies,” and Officer Nolan and the team have a Halloween they won’t soon forget. Back at home, Lucy questions whether her apartment building might be haunted.",
+                    "air_date": "2021-10-31",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 6,
+                    "title": "Poetic Justice",
+                    "overview": "Officer Nolan and team are on a hunt to retrieve a buried stash of gold before any treasure seekers get hurt. Meanwhile, Bradford is tasked with encouraging the oldest cop at the station to retire and invites him to ride with him.",
+                    "air_date": "2021-11-7",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 7,
+                    "title": "Fire Fight",
+                    "overview": "In the aftermath of Fred’s house explosion, Officer Nolan and Bailey discover there’s more to Fred’s death than meets the eye. Meanwhile, Officer Chen and Officer Bradford demand a treasure hunt rematch and enlist Sgt. Grey to help set the terms to a new bet, all while they arrest a series of wealthy female criminals. Elsewhere, Wesley struggles to keep it together under the pressure of his debt to Elijah.",
+                    "air_date": "2021-11-14",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 8,
+                    "title": "Hit and Run",
+                    "overview": "The team goes on a city-wide hunt for an individual who is threatening a mass casualty event. Meanwhile, Tim’s sister Genny shows up unannounced with some surprising news, and Lopez continues her inner struggle over Wesley’s deal with Elijah and tries to come up with a plan to get them out of it.",
+                    "air_date": "2021-12-5",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 9,
+                    "title": "Breakdown",
+                    "overview": "Desperate to break free from his connection to Elijah, Wesley tries to plant a listening device in his office to incriminate him; Officer Bradford and his sister, Genny, learn an unsettling truth about their father.",
+                    "air_date": "2021-12-12",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 10,
+                    "title": "Heart Beat",
+                    "overview": "Now that John Nolan knows about Bailey’s past, he must decide if they still have a future. Meanwhile, when a plane crashes in the middle of the city the team races to find out why.",
+                    "air_date": "2022-1-2",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 11,
+                    "title": "End Game",
+                    "overview": "The team must rely on a criminal for his expertise to help take down an even bigger threat. Meanwhile, Officers Chen and Bradford investigate the murder of an unhoused teenager who used to be friends with Tamara.",
+                    "air_date": "2022-1-9",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 12,
+                    "title": "The Knock",
+                    "overview": "The team responds to the report of a severed hand washing up on the beach and are on the hunt to find its owner. Meanwhile, Tim attempts to prove he isn’t a control freak to Lucy and invites her on a double date with him and Ashley.",
+                    "air_date": "2022-1-23",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 13,
+                    "title": "Fight or Flight",
+                    "overview": "Officers John Nolan and Lucy Chen must fulfill three quests if they want to get a stolen police helicopter back safely from a teenage thief. Meanwhile, Detective Nyla Harper and Officer Aaron Thorsen must guard a convicted cop killer in the hospital following a prison riot.",
+                    "air_date": "2022-1-30",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 14,
+                    "title": "Long Shot",
+                    "overview": "Officer Nolan and Detective Harper help Skip Tracer Randy on his first bounty hunter case. Meanwhile, Officer Chen and Sergeant Bradford are on the hunt for a perpetrator on a citywide crime spree.",
+                    "air_date": "2022-2-27",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 15,
+                    "title": "Hit List",
+                    "overview": "Officer Harper puts Officer Aaron through “Plain Clothes Day,” but the exercise is interrupted by an unsuspected visitor. After two witnesses for an upcoming grand jury case are murdered, the team must track down the killers before it’s too late.",
+                    "air_date": "2022-3-6",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 16,
+                    "title": "Real Crime",
+                    "overview": "Desperate to reset the way the world sees him, Officer Thorsen reluctantly decides to be a part of a reality show to help rebrand his image, only to be thrust back into yet another deadly situation. With cameras rolling, the show’s producer is found murdered and the team must investigate before Aaron is made suspect number one.",
+                    "air_date": "2022-3-13",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 17,
+                    "title": "Coding",
+                    "overview": "Officer John Nolan and the team feel they must negotiate with a distraught man who is holding a hospital hostage to ensure his wife receives a lifesaving surgery.",
+                    "air_date": "2022-4-3",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 18,
+                    "title": "Backstabbers",
+                    "overview": "After the robbery of a train filled with valuable auction items turns deadly, the team is called to investigate. Meanwhile, Officer Chen has doubts about being Sergeant Bradford’s aide and is upset when he doesn’t give her the recognition she deserves. Elsewhere, Officer Harper takes matters into her own hands and makes a life-changing decision about her personal life.",
+                    "air_date": "2022-4-10",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 19,
+                    "title": "Simone",
+                    "overview": "Officer Nolan and the LA division of the FBI enlist the help of FBI trainee Simone Clark when one of her former students is suspected of terrorism following an explosion at a local power station.",
+                    "air_date": "2022-4-24",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 20,
+                    "title": "Enervo",
+                    "overview": "The team alongside the LA Division of the FBI are in a race to stop bombs that have been scattered throughout the city by a suspected terrorist. Meanwhile, the joint task force is suspicious of the CIA’s involvement in the situation.",
+                    "air_date": "2022-5-1",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 21,
+                    "title": "Mother's Day",
+                    "overview": "Sergeant Grey supports Officer Nolan’s desire to become a training officer and offers to ride with him for the day to get him ready. Meanwhile, Tim and Lucy must manage expectations in their respective relationships as they decide on their plans for Mother’s Day and a romantic vacation.",
+                    "air_date": "2022-5-8",
+                    "special": false
+                },
+                {
+                    "season": 4,
+                    "episode_number": 22,
+                    "title": "Day in the Hole",
+                    "overview": "Officer John Nolan is forced to spend a week in solitary confinement in a quiet border town with a young local officer who is in need of some training. Meanwhile, Sergeant Bradford and Officer Chen discover that looks are deceiving and go undercover together in a possible drug trafficking case.",
+                    "air_date": "2022-5-15",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 1,
+                    "title": "Double Down",
+                    "overview": "Officer John Nolan is once again face-to-face with serial killer Rosalind, and she wants him to know she's not done with him yet. Meanwhile, officers Bradford and Chen work undercover with Detective Lopez and the Las Vegas Police Department to arrest leaders of a major criminal enterprise.",
+                    "air_date": "2022-9-25",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 2,
+                    "title": "Labor Day",
+                    "overview": "Officer John Nolan is moving closer to his new role as a training officer. In preparation, he is tasked with overseeing Officer Aaron Thorson and must uncover the truth about another officer’s suicide. Meanwhile, Lucy’s successful undercover assignment earns her an invitation for specialized training in Sacramento and she must decide if this is the path she wants to take.",
+                    "air_date": "2022-10-2",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 3,
+                    "title": "Dye Hard",
+                    "overview": "Officer John Nolan is assigned his first rookie, Officer Celina Juarez, whose unconventional approach to police work poses a unique challenge for him.",
+                    "air_date": "2022-10-9",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 4,
+                    "title": "The Choice (I)",
+                    "overview": "Rosalind returns with a vengeance and Bailey’s life is left hanging in the balance. With a ticking clock, the LAPD and the FBI join forces, and Officer John Nolan is forced to make a deadly decision after a harrowing ultimatum.\n\nThe crossover continues on The Rookie: Feds S01E04 To Die For (II).",
+                    "air_date": "2022-10-16",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 5,
+                    "title": "The Fugitive",
+                    "overview": "Officer John Nolan and Officer Celina Juarez are on the hunt for a fugitive after a car incident goes awry. Meanwhile, a past injury comes to haunt Tim and Lucy comes through during his time in need in more ways than one.",
+                    "air_date": "2022-10-23",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 6,
+                    "title": "The Reckoning",
+                    "overview": "Officer John Nolan and a sleep-deprived Celina investigate a cash deposit linked to an old DEA case. Meanwhile, Wesley grows increasingly concerned about his deposition and is shocked when he realizes Elijah’s attorney is a familiar face from his past.",
+                    "air_date": "2022-10-30",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 7,
+                    "title": "Crossfire",
+                    "overview": "Officer John Nolan and Celina witness a shooting, realize the victim was already dead, and investigate further. Back at home, Bailey has been feeling off-center ever since the proposal, leaving Nolan to wonder what he can do to make her feel more comfortable. Elsewhere, Lopez and Harper enlist Lucy’s help to investigate the gang-related murder of a local shopkeeper.",
+                    "air_date": "2022-11-6",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 8,
+                    "title": "The Collar",
+                    "overview": "Officers John Nolan and Celina Juarez are in a race against time to stop the source of an explosive rampage.",
+                    "air_date": "2022-12-4",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 9,
+                    "title": "Take Back",
+                    "overview": "Officer John Nolan and the team investigate the unexpected death of a suspect in police custody. Their search also uncovers a very delicate loose end that could jeopardize Officer Celina Juarez's career. Meanwhile, Sergeant Grey and his wife, Luna, go to New York to visit their daughter, Dominique, only to realize she never made it home from the night before.",
+                    "air_date": "2022-12-4",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 10,
+                    "title": "The List (I)",
+                    "overview": "Detective Nyla Harper and James find themselves in the middle of a bank robbery which leads the entire team on a citywide manhunt. Meanwhile, Tim and Lucy finally go on their first date, but it does have a few complications.\n\nThe crossover continues on The Rookie: Feds S01E10 The Silent Prisoner (II).",
+                    "air_date": "2023-1-3",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 11,
+                    "title": "The Naked and the Dead",
+                    "overview": "The search for a missing boy leads the team into the middle of a dangerous drug war between two rival gangs.",
+                    "air_date": "2023-1-10",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 12,
+                    "title": "Death Notice",
+                    "overview": "Nolan and Celina must stand guard at a hospital after a dangerous prisoner needs surgery. Aaron, Lopez and Harper look into a string of robberies. Tim and Lucy consider how their secret relationship will affect their work. Lopez gets unexpected news.",
+                    "air_date": "2023-1-17",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 13,
+                    "title": "Daddy Cop",
+                    "overview": "In the midst of a heatwave and a citywide blackout, Officer John Nolan and Aaron follow increasingly large leads after they discover criminals hiding at the station. While on duty, Officer Chen makes an alarming discovery after being called to a scene where a pungent smell has wreaked havoc. Meanwhile, Lucy and Harper scheme to get Tim out of his new job and into a more exciting position.",
+                    "air_date": "2023-1-24",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 14,
+                    "title": "Death Sentence",
+                    "overview": "Officer John Nolan and Bailey are on the hunt for a mystery gunman after a shooting hits a little too close to home. Meanwhile, Aaron struggles to live within his means and joins Lucy to help Tamara when the mother of a child she babysits goes missing. Elsewhere, Wesley suspects that a judge is taking bribes after he excludes valuable eyewitness testimony from a case.",
+                    "air_date": "2023-1-31",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 15,
+                    "title": "The Con",
+                    "overview": "With help from the FBI, Detective Lopez puts everything on the line to help Elijah Stone take down a gang leader in exchange for her safety. Meanwhile, Nolan and Bailey must deal with the secrets and shady dealings his late mother left behind.",
+                    "air_date": "2023-2-14",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 16,
+                    "title": "Exposed",
+                    "overview": "The team must stop a militia from detonating a highly combustible truck in their possession. Meanwhile, Officers Nolan, Thorson, Juarez and Detective Harper search for three men who may have been exposed to Ebola and detain them for quarantine.",
+                    "air_date": "2023-2-21",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 17,
+                    "title": "The Enemy Within (I)",
+                    "overview": "Now that Elijah and Abril have become allies, the team must rely on Monica, Elijah’s lawyer, to uncover their plans. Meanwhile, Officers Nolan and Juarez reopen her sister’s case and discover a discrepancy that leads them on a new trail.\n\nThe crossover continues on The Rookie: Feds S01E17 Payback (II).",
+                    "air_date": "2023-2-28",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 18,
+                    "title": "Double Trouble",
+                    "overview": "When Dim goes missing, Officer Chen and Sergeant Bradford, along with the CIA, set out to find him and enlist the help of Juicy.",
+                    "air_date": "2023-3-21",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 19,
+                    "title": "A Hole in the World",
+                    "overview": "The team investigates a pattern of kidnappings which leads them to a discovery that hits close to home with one of their own. Meanwhile, Lucy and Tim’s relationship is put to the test as they begin to feel the hard hours of their jobs.",
+                    "air_date": "2023-3-28",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 20,
+                    "title": "S.T.R.",
+                    "overview": "Officer Tim Bradford’s ex-wife returns and asks the team to help her save someone from her undercover past. Isabel’s return also creates additional pressure in Lucy and Tim’s relationship as they assist in the search.",
+                    "air_date": "2023-4-18",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 21,
+                    "title": "Going Under (I)",
+                    "overview": "Officer Lucy Chen goes undercover to infiltrate an illegal firearm operation, and Detective Harper and Officer John Nolan work together to solve a mystery involving severed limbs found around the city.\n\nThe crossover continues on The Rookie: Feds S01E21 Bloodline (II).",
+                    "air_date": "2023-4-25",
+                    "special": false
+                },
+                {
+                    "season": 5,
+                    "episode_number": 22,
+                    "title": "Under Siege",
+                    "overview": "After one of their own is shot, the team suffers a series of close calls and realizes their division may be a target for a group of masked assailants.",
+                    "air_date": "2023-5-2",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 1,
+                    "title": "Strike Back",
+                    "overview": "In the aftermath of the assaults in the explosive season five finale, the team must now try to understand why they were targeted and if there is a bigger plan in place. Meanwhile, Nolan must survive his last shift before his wedding to Bailey.",
+                    "air_date": "2024-2-20",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 2,
+                    "title": "The Hammer",
+                    "overview": "The team comes together to celebrate John and Bailey’s wedding; meanwhile, Celina discovers a discrepancy in her case, leading to a new discovery. Elsewhere, Lucy and Tim’s relationship is put to the test.",
+                    "air_date": "2024-2-27",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 3,
+                    "title": "Trouble in Paradise",
+                    "overview": "Nolan and Bailey’s honeymoon is more of a nightmare than a dream when it turns into an active crime scene. Meanwhile, Tim and Celina partner up and must uncover the identity of John Doe.",
+                    "air_date": "2024-3-5",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 4,
+                    "title": "Training Day",
+                    "overview": "It's Officer Aaron Thorsen's first day back since the assault, and he's tasked with a series of high-stress cases to determine whether he's ready to work. Elsewhere, the team investigates a homicide case with a potential tie to the pentagram killer.",
+                    "air_date": "2024-3-26",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 5,
+                    "title": "The Vow",
+                    "overview": "When a toddler is found at the scene of a crime, John and Bailey must decide whether to let the child go to a shelter for the night or care for her themselves. Meanwhile, when someone from his past returns, Tim disappears and leaves Lucy in the dark.",
+                    "air_date": "2024-4-2",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 6,
+                    "title": "Secrets and Lies",
+                    "overview": "Following their time as foster parents, Bailey has decided she wants to have a baby and forces John to reconsider their decision to not have children. Meanwhile, John and Celina discover a prison escapee whom they fear is out for revenge and race to find her before it is too late.",
+                    "air_date": "2024-4-9",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 7,
+                    "title": "Crushed",
+                    "overview": "When two teenagers go missing, it is up to the entire team to find the girls and uncover the truth about their disappearance. Meanwhile, Lopez and Harper are on a different kind of investigation – the search for the perfect nanny.",
+                    "air_date": "2024-4-30",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 8,
+                    "title": "Punch Card",
+                    "overview": "After a mafia-related mass casualty, the team is tasked to keep the peace at the hospital. Lucy and Celina work together to investigate the suspects behind the attack. Meanwhile, Tim and Aaron embark on a metro ops mission.",
+                    "air_date": "2024-5-7",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 9,
+                    "title": "The Squeeze",
+                    "overview": "Officer Nolan and Celina take on a special case; meanwhile, Monica enlists help to identify her attackers. Elsewhere, Lopez and Harper discover a connection to the trail of crimes.",
+                    "air_date": "2024-5-14",
+                    "special": false
+                },
+                {
+                    "season": 6,
+                    "episode_number": 10,
+                    "title": "Escape Plan",
+                    "overview": "Sgt. Grey helps the team prepare for their biggest mission yet. Meanwhile, Aaron, Lopez, Celina, Tim and Smitty discover a surprising connection in their case.",
+                    "air_date": "2024-5-21",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 1,
+                    "title": "The Shot",
+                    "overview": "Now recovering from a gunshot wound and feeling the effects of his age, John and the team welcome two new rookies and continue the hunt for two dangerous inmates with very personal vendettas following their prison escape.",
+                    "air_date": "2025-1-7",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 2,
+                    "title": "The Watcher",
+                    "overview": "The team is tasked with community policing while hunting for a local vigilante. Meanwhile, Celina’s instincts are tested, and Tim and Lucy discover secrets about the two new rookies.",
+                    "air_date": "2025-1-14",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 3,
+                    "title": "Out of Pocket",
+                    "overview": "Ahead of Bailey's return home, John looks for clues to locate Jason Wyler. Then, Tim and Lucy swap rookies; a friendly face resurfaces at the station, and Wesley feels unsettled over Angela.",
+                    "air_date": "2025-1-21",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 4,
+                    "title": "Darkness Falling",
+                    "overview": "Following his stint at the LAPD, Wesley returns to the district attorney's office where his past connects him to the team's investigation. Meanwhile, Bailey and John have conflicting feelings over safety, while Lucy grows suspicious of Seth.",
+                    "air_date": "2025-1-28",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 5,
+                    "title": "Til Death",
+                    "overview": "The team searches for a serial killer as Nyla struggles with the aftermath following the attack. Lucy’s relationship with Seth takes a turn, while Bailey battles her fear of Jason Wyler.",
+                    "air_date": "2025-2-4",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 6,
+                    "title": "The Gala",
+                    "overview": "It’s Valentine’s Day, and Lieutenant Grey gives Tim and Lucy an unromantic assignment, while John and Celina track down a missing girl. Later, the team sharpens up for a charity gala where multiple relationships come to a head.",
+                    "air_date": "2025-2-11",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 7,
+                    "title": "The Mickey",
+                    "overview": "On Celina's last day as a rookie, John gives her one final test. Meanwhile, Bailey makes a new friend, and Lucy places her faith in Seth for an undercover assignment.",
+                    "air_date": "2025-2-18",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 8,
+                    "title": "Wildfire",
+                    "overview": "Nyla remains suspicious of Liam Glasser as a wildfire erupts, causing chaos in the city. Meanwhile, James tries to help a friend, and Seth makes a costly mistake, putting two of their own in danger.",
+                    "air_date": "2025-2-25",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 9,
+                    "title": "The Kiss",
+                    "overview": "The team mobilizes to locate a suspect after a deadly series of events affects one of their own. Meanwhile, Celina takes on her first case with Bailey's help.",
+                    "air_date": "2025-3-11",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 10,
+                    "title": "Chaos Agent",
+                    "overview": "John, Lucy and Angela investigate the suspicious stabbing of three teenage girls. Back at the station, the team experiences technical difficulties while managing a group of prisoners and a wild animal.",
+                    "air_date": "2025-3-18",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 11,
+                    "title": "Speed",
+                    "overview": "John and Celina find themselves in a hostage situation while undercover for a public safety initiative. While Angela and Nyla investigate the suspects, Tim challenges Lucy’s decision-making skills.",
+                    "air_date": "2025-3-25",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 12,
+                    "title": "April Fools",
+                    "overview": "An April Fools' prank on LAPD’s social media leads to citywide chaos. Meanwhile, John's T.O. skills are tested, Wesley is assigned a challenging case, and Tim and Lucy play a joke on the team.",
+                    "air_date": "2025-4-1",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 13,
+                    "title": "Three Billboards",
+                    "overview": "When anti-LAPD billboards emerge throughout the city, the team searches for who's responsible. Meanwhile, a car bombing prompts an investigation, Miles reconnects with an old friend, and John and Bailey assess their ability to adopt.",
+                    "air_date": "2025-4-8",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 14,
+                    "title": "Mad About Murder",
+                    "overview": "Tim receives a strange message, launching a larger investigation into the dark web. Meanwhile, Celina works to take down a popular podcast, and Miles helps update the department’s training videos.",
+                    "air_date": "2025-4-15",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 15,
+                    "title": "A Deadly Secret",
+                    "overview": "Documentary filmmakers interview the LAPD on a complicated missing person's case connected to John.",
+                    "air_date": "2025-4-22",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 16,
+                    "title": "The Return",
+                    "overview": "The team has mixed feelings when a familiar face returns hoping to prove himself. Meanwhile, an influencer gets his fans to come after Wesley, and Tim supports Lucy as she prepares for the sergeant's exam.",
+                    "air_date": "2025-4-29",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 17,
+                    "title": "Mutiny and the Bounty",
+                    "overview": "The team helps Skip Tracer Randy when his new love interest is kidnapped. Meanwhile, Angela and Nyla enlist their moms to help catch a con artist, and Wesley is threatened to drop a case.",
+                    "air_date": "2025-5-6",
+                    "special": false
+                },
+                {
+                    "season": 7,
+                    "episode_number": 18,
+                    "title": "The Good, The Bad & The Oscar",
+                    "overview": "John and Harper work together to catch Oscar. Angela investigates a bank robbery. Lucy and Tim learn to adapt to her new schedule, and Miles' first date takes an unexpected turn.",
+                    "air_date": "2025-5-13",
+                    "special": false
+                }
+            ]
+        }
+    ]
+}
